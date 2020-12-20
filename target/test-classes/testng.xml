@@ -1,0 +1,28 @@
+<suite name="Parameter test Suite" verbose="1">
+    <!-- This parameter will be passed to every test in this suite -->
+    <parameter name="suite-param" value="suite level parameter" />
+    <test name="Test1">
+        <parameter name="status" value="available" />
+        <classes>
+            <class name="com.Pet.PetStore.GetPetByStatus"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <parameter name="status" value="pending" />
+        <classes>
+            <class name="com.Pet.PetStore.GetPetByStatus"/>
+        </classes>
+    </test>
+    <test name="Test3">
+        <parameter name="status" value="sold" />
+        <classes>
+            <class name="com.Pet.PetStore.GetPetByStatus"/>
+        </classes>
+    </test>
+    <test name="Test4">
+        <classes>
+            <class name="com.Pet.PetStore.GetPetByStatus"/>
+        </classes>
+    </test>
+
+</suite>

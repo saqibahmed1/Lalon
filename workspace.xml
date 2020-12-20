@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f30f9020-90d1-45a1-9c69-78a66f2c14d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lL5FriqujyBIkm0GqoZ91pbT0u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CucumberPetStore" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asaqi\IdeaProjects\PetStoreRestfulTest\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Pet.PetStore" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.UploadAnImage.makePostCallForUploadImageToPetStore">
+    <configuration name="AddPetInStore" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStoreRestfulTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Pet.PetStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Pet.PetStore" />
+      <option name="MAIN_CLASS_NAME" value="com.Pet.PetStore.AddPetInStore" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddPetInStore.makePostCallForAddingPetToPetStore" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStoreRestfulTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Pet.PetStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Pet.PetStore" />
+      <option name="MAIN_CLASS_NAME" value="com.Pet.PetStore.AddPetInStore" />
+      <option name="METHOD_NAME" value="makePostCallForAddingPetToPetStore" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetPetByStatusDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStoreRestfulTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Pet.PetStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Pet.PetStore" />
+      <option name="MAIN_CLASS_NAME" value="com.Pet.PetStore.GetPetByStatusDataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadAnImage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStoreRestfulTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Pet.PetStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Pet.PetStore" />
+      <option name="MAIN_CLASS_NAME" value="com.Pet.PetStore.UploadAnImage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadAnImage.makePostCallForUploadImageToPetStore" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStoreRestfulTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Pet.PetStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Pet.PetStore" />
+      <option name="MAIN_CLASS_NAME" value="com.Pet.PetStore.UploadAnImage" />
+      <option name="METHOD_NAME" value="makePostCallForUploadImageToPetStore" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testng" type="TestNG">
+      <module name="PetStoreRestfulTest" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.testng" />
+      <item itemvalue="TestNG.GetPetByStatusDataProvider" />
+      <item itemvalue="TestNG.AddPetInStore.makePostCallForAddingPetToPetStore" />
+      <item itemvalue="TestNG.AddPetInStore" />
+      <item itemvalue="TestNG.UploadAnImage.makePostCallForUploadImageToPetStore" />
+      <item itemvalue="TestNG.UploadAnImage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UploadAnImage.makePostCallForUploadImageToPetStore" />
+        <item itemvalue="TestNG.UploadAnImage" />
+        <item itemvalue="TestNG.AddPetInStore" />
+        <item itemvalue="TestNG.AddPetInStore.makePostCallForAddingPetToPetStore" />
+        <item itemvalue="TestNG.GetPetByStatusDataProvider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f30f9020-90d1-45a1-9c69-78a66f2c14d7" name="Default Changelist" comment="" />
+      <created>1607363431944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607363431944</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/User/PetStore/FindUserByUserName.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/User/PetStore/FindUserByUserName.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/User/PetStore/FindUserByUserName.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
